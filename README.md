@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 160px;">
-      <img src="./homepage_photo.JPG" alt="Profile" width="150" style="border-radius:50%">
+      <img src="./homepage_photo.JPG" alt="Profile" width="150">
     </td>
     <td>
       <p>
@@ -12,6 +12,9 @@
     </td>
   </tr>
 </table>
+
+
+### and these are my courseworks
 
 
 
