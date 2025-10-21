@@ -6,7 +6,11 @@ Before joining graduate school, I studied B.A. Mathematics at the University of 
 
 <br clear="left"/>
 
-##### Courseworks
+##### Projects
+
+##### Paper Studies
+Algorithm Development in Neural Networks:Insights from the Streaming Parity Task(Loek van Rossem, Andrew M. Saxe, ICLR 2025)
+
 
 ##### Mathematics Articles
 
