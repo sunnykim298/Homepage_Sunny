@@ -6,9 +6,10 @@ Before joining graduate school, I studied B.A. Mathematics at the University of 
 
 <br clear="left"/>
 
-##### Projects
+##### Projects / Courseworks
+<a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Lab Seminar on my research design</a>
 
-##### Paper Studies
+##### Studies on Papers I enjoyed reading
 <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer">Algorithm Development in Neural Networks: Insights from the Streaming Parity Task</a>
 
 ##### Mathematics Articles
