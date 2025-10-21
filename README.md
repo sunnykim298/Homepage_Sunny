@@ -9,8 +9,7 @@ Before joining graduate school, I studied B.A. Mathematics at the University of 
 ##### Projects
 
 ##### Paper Studies
-[Algorithm Development in Neural Networks: Insights from the Streaming Parity Task (Loek van Rossem, Andrew M. Saxe, ICLR 2025)] (./paperstudies/JounalClub_0825.pptx)
-
+<a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer">Algorithm Development in Neural Networks: Insights from the Streaming Parity Task</a>
 
 ##### Mathematics Articles
 
