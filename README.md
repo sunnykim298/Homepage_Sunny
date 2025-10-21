@@ -6,11 +6,14 @@ Before joining graduate school, I studied B.A. Mathematics at the University of 
 
 <br clear="left"/>
 
-##### Projects / Courseworks
-<a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Lab Seminar on my research design</a>
+##### CV
 
-##### Studies on Papers I enjoyed reading
+##### Projects / Courseworks / Paper Studies
+<a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Research Design </a>
+Computational Neuroscience project 
 <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer">Algorithm Development in Neural Networks: Insights from the Streaming Parity Task</a>
+GNNRL Algorithmic Alignment
+SoRB 
 
 ##### Mathematics Articles
 
