@@ -6,7 +6,7 @@ My research interests are Deep/Reinforcement Learning and Dynamical Systems, wit
 <br clear="left"/>
 
 ##### CV @ Ernst & Young Consulting
-<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer"> </a>
+<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer"> CV </a>
 
 ##### Writings
 <!-- <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Research Design </a>
