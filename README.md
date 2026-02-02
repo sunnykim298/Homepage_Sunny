@@ -5,9 +5,9 @@ My research interests are Deep/Reinforcement Learning and Dynamical Systems, wit
  
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer"> CV </a>
 
-- some maths writings
+some maths writings
 
-- some neural network dynamics course projects or paper reviews<br>
+some neural network dynamics course projects or paper reviews<br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on a paper using the idea of Hamiltonian to make a more robust GNN</a><br>
