@@ -5,21 +5,14 @@ My research interests are Deep/Reinforcement Learning and Dynamical Systems, wit
  
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer"> CV </a>
 
-some maths writings
+- some maths writings
 
-<p>some neural network dynamics course projects or paper reviews</p>
-<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer" style="display:block;">
-  spatial and temporal shapes in ADHD brains
-</a>
-<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer" style="display:block;">
-  attention-based recall in an egocentric navigation task
-</a>
-<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer" style="display:block;">
-  personal review on a paper using the idea of Hamiltonian to make a more robust GNN
-</a>
-<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer" style="display:block;">
-  personal review on two different papers on mechanism behind grokking
-</a>
+- some neural network dynamics course projects or paper reviews<br>
+<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
+<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
+<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on a paper using the idea of Hamiltonian to make a more robust GNN</a><br>
+<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on two different papers on mechanism behind grokking</a>
+
 
 <!-- <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Research Design </a>
 Computational Neuroscience project 
