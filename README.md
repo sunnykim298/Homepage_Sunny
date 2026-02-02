@@ -7,13 +7,16 @@ My research interests are Deep/Reinforcement Learning and Dynamical Systems, wit
 
 some maths writings
 
-some neural network dynamics course or personal projects <br>
+some course or personal projects relating to neural network dynamics <br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on a paper using the idea of Hamiltonian to make a more robust GNN</a><br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on two very different papers studying grokking mechanism </a>
+<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on the algorithmic alignment  </a>
 
-
+<a href="./reviews/algorithmic-alignment.html" target="_blank" rel="noopener noreferrer">
+  personal review on the algorithmic alignment
+</a>
 <!-- <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Research Design </a>
 Computational Neuroscience project 
 <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer">Algorithm Development in Neural Networks: Insights from the Streaming Parity Task</a>
