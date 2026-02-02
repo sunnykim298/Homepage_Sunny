@@ -11,7 +11,7 @@ some neural network dynamics course or personal projects <br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on a paper using the idea of Hamiltonian to make a more robust GNN</a><br>
-<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on two different papers on grokking mechanism </a>
+<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on two very different papers studying grokking mechanism </a>
 
 
 <!-- <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Research Design </a>
