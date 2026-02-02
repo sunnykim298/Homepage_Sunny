@@ -15,7 +15,7 @@ some course or personal projects relating to neural network dynamics <br>
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer">personal review on the algorithmic alignment  </a>
 
 <a href="./projects/hamiltonian-gnn.md" target="_blank" rel="noopener noreferrer">
-  personal review on the algorithmic alignment
+  personal review on the hamiltonian gnn
 </a>
 <!-- <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Research Design </a>
 Computational Neuroscience project 
