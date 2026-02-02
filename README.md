@@ -5,6 +5,11 @@ My research interests are Deep/Reinforcement Learning and Dynamical Systems, wit
  
 <a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer"> CV </a>
 
+some (ai-assisted) maths writings..
+
+some Neural Network Dynamics (course) projects or paper reviews..
+
+
 <!-- <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Research Design </a>
 Computational Neuroscience project 
 <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer">Algorithm Development in Neural Networks: Insights from the Streaming Parity Task</a>
