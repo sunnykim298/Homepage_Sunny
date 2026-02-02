@@ -7,7 +7,6 @@ usemathjax: true
 ---
 
 #### "[NeurIPS - 23] Adversarial Robustness in Graph Neural Networks:  A Hamiltonian Approach"
-permalink: 2024-10-13-Adversarial_Robustness_in_Graph_Neural_Networks_A_Hamiltonian_Approach.html
 
 ### Introduction
 
