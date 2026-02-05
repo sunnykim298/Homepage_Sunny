@@ -3,11 +3,9 @@
 Hello, My name is Sunny (Sungyoung) Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
 My research interests are Deep/Reinforcement Learning and Dynamical Systems, with a particular focus on understanding Neural Network's controllability and observability dynamics. Before joining graduate school, I studied B.A. Mathematics at the University of Cambridge and worked as a Data & Analytics Consultant at Ernst & Young.
  
-<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer"> CV </a>
+<a href="./SunnyKim_CV_24.pdf" target="_blank" rel="noopener noreferrer"> Curriculum Vitae </a>
 
-some maths writings
-
-some course or personal projects relating to neural network dynamics <br>
+some course or personal projects and writings relating to dynamics <br>
 <a href="./adhd_compneuro_F.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
 <a href="./memoryrl_compneuro_F.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
 [personal review on a paper using the idea of Hamiltonian to make a more robust GNN](./projects/hamiltonian-gnn/) <br>
