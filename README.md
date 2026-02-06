@@ -9,9 +9,9 @@ some course or personal projects and writings relating to dynamics <br>
 controllability and observability dynamics in neural networks (work in progress) <br>
 <a href="./adhd_compneuro_F.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
 <a href="./memoryrl_compneuro_F.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
-[note on two different papers studying grokking mechanism] <br>
-[note RL papers inspired by algorithmic alignment] <br>
-[note on a Hamiltonian inspired GNN paper](./projects/hamiltonian-gnn/) <br>
+note on two very different papers studying grokking mechanism <br>
+note reinforcement learning papers related to algorithmic alignment <br>
+note on a graph neural flow paper inspired by Hamiltonian <br>
 note on proofs in 'Period 3 Implies Chaos' <br>
 note on the equivalence between Devaney and Glenndinning Chaos <br>
 
