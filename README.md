@@ -12,7 +12,7 @@ controllability and observability dynamics in neural networks (work in progress)
 note on two very different papers studying grokking mechanism <br>
 note on reinforcement learning papers related to algorithmic alignment <br>
 note on a graph neural flow paper inspired by Hamiltonian <br>
-note on the paper 'Period 3 Implies Chaos' <br>
+note on clever proofs in 'Period 3 Implies Chaos' <br>
 
 <!-- <a href="./paperstudies/JournalClub_0825.pptx" target="_blank" rel="noopener noreferrer"> Research Design </a>
 Computational Neuroscience project 
