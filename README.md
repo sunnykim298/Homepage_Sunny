@@ -11,7 +11,7 @@ controllability and observability dynamics in neural networks (work in progress)
 <a href="./memoryrl_compneuro_F.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
 [note on two different papers studying grokking mechanism] <br>
 [note RL papers inspired by algorithmic alignment] <br>
-[note on a paper using the idea of Hamiltonian to make a more robust GNN](./projects/hamiltonian-gnn/) <br>
+[note on a Hamiltonian inspired GNN paper](./projects/hamiltonian-gnn/) <br>
 note on proofs in 'Period 3 Implies Chaos' <br>
 note on the equivalence between Devaney and Glenndinning Chaos <br>
 
