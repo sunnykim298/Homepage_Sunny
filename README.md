@@ -11,7 +11,7 @@ controllability and observability dynamics in neural networks (work in progress)
 [note RL papers inspired by algorithmic alignment] <br>
 [note on a paper using the idea of Hamiltonian to make a more robust GNN](./projects/hamiltonian-gnn/) <br>
 note on papers introducing controllability scores and their computing algorithms <br>
-note on 'Period 3 Implies Chaos' <br>
+note on proofs in 'Period 3 Implies Chaos' <br>
 note on the equivalence between Devaney and Glenndinning Chaos <br>
 <a href="./adhd_compneuro_F.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
 <a href="./memoryrl_compneuro_F.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
