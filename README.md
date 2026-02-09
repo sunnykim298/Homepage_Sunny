@@ -1,7 +1,7 @@
 <!-- <img align="left" src="./homepage_photo.JPG" width="150" /> -->
 
 Hello, My name is Sunny (Sungyoung) Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
-My research interests are Deep/Reinforcement Learning and Dynamical Systems, with a focus on understanding (artificial) neural network's controllability and observability dynamics. Before joining graduate school, I studied B.A. Mathematics at the University of Cambridge and worked as a Data & Analytics Consultant at Ernst & Young. Besides my main interests, I consistently liked learning about fluids and waves too.
+My research interests are Deep/Reinforcement Learning and Dynamical Systems, with a focus on understanding (artificial) neural network's controllability and observability dynamics. Before joining graduate school, I studied B.A. Mathematics at the University of Cambridge and worked as a Data & Analytics Consultant at Ernst & Young. Besides my main interests, I consistently liked learning about fluids, waves and airplanes.
  
 <a href="./SunnyKim_CV_vF.pdf" target="_blank" rel="noopener noreferrer"> Curriculum Vitae </a>
 
