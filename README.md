@@ -1,11 +1,11 @@
 <!-- <img align="left" src="./homepage_photo.JPG" width="150" /> -->
 
-#### Introduction <br>
+**Introduction**
 Hello, My name is Sunny (Sungyoung) Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
 Before joining graduate school, I studied B.A. Mathematics at the University of Cambridge and worked as a Data & Analytics Consultant at Ernst & Young. <br>
 <a href="./SunnyKim_CV_vF.pdf" target="_blank" rel="noopener noreferrer"> Curriculum Vitae </a>
 
-#### Research <br>
+**Research**
 My research interests are deep/reinforcement learning and dynamical systems, with a focus on understanding how artificial neural networks learn from a control-theoretic perspective. Specifically, my work consists of:
 
 • proposing a framework that views a single optimization step as a linearized state-space system, enabling controllability (C) and observability (O) Gramian-based metrics (extending common parameter-to-logit / input-to-output analyses such as the NTK to include representations in the loop); C/O framework v0.1 (last updated Nov 2024) <br>
