@@ -10,7 +10,7 @@ My research interests are deep/reinforcement learning and dynamical systems, wit
 
 - proposing a framework that views a single optimization step as a linearized state-space system, enabling controllability (C) and observability (O) gramian-based metrics (<a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">C, O framework v0.1, last updated Nov 2024</a>)<br>
 - analyzing C/O matrices (e.g., trace, log-det, alignment, eigenspectrum) across tasks and architectures in relation to generalization accuracy, task suggestive properties and regularization strategies <br>
-- developing C/O-based methods to identify circuits in neural networks, in the mechanistic interpretability sense <br>
+- developing novel C/O-based methods to identify circuits in neural networks, in the mechanistic interpretability sense <br>
 
 Besides my main interests, I have also consistently enjoyed learning about fluids, waves, and airplanes.
 
