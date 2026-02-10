@@ -1,7 +1,7 @@
 <!-- <img align="left" src="./homepage_photo.JPG" width="150" /> -->
 
 **Introduction** <br>
-Hello, My name is Sunny (Sungyoung) Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
+Hello, My name is Sungyoung Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
 Before joining graduate school, I studied B.A. Mathematics at the University of Cambridge and worked as a Data & Analytics Consultant at Ernst & Young.
 (<a href="./SunnyKim_CV_vF.pdf" target="_blank" rel="noopener noreferrer"> Curriculum Vitae </a>)
 
