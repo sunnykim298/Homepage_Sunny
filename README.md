@@ -1,10 +1,12 @@
 <!-- <img align="left" src="./homepage_photo.JPG" width="150" /> -->
 
-**Introduction** Hello, My name is Sunny (Sungyoung) Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
+**Introduction** 
+Hello, My name is Sunny (Sungyoung) Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
 Before joining graduate school, I studied B.A. Mathematics at the University of Cambridge and worked as a Data & Analytics Consultant at Ernst & Young. <br>
 <a href="./SunnyKim_CV_vF.pdf" target="_blank" rel="noopener noreferrer"> Curriculum Vitae </a>
 
-**Research** My research interests are Deep/Reinforcement learning and Dynamical Systems, with a focus on understanding artificial neural networks' learning in the control theoretic perspective.
+**Research** 
+My research interests are Deep/Reinforcement learning and Dynamical Systems, with a focus on understanding artificial neural networks' learning in the control theoretic perspective.
 Specifically, it consists of 
 - suggesting the framework of viewing an optimization step as a linearized state-space system to deduce controllability (C) and observability (O) gramian-based metrics
   - existing literature often focuses on parameter-to-logit or input-to-output dynamics (e.g. NTK) and this framework extends them to include representation in the loop 
@@ -16,7 +18,7 @@ Specifically, it consists of
 - devising C, O based methods on identifying circuits in a neural network in the mechanistic interpretability sense
 Besides my main interests, I consistently liked learning about fluids, waves and airplanes too. <br>
 
-**Projects and Notes** Some course projects and study notes <br>
+**Course projects and study notes**
 <a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
 <a href="./memoryrl_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
 <a href="./grokking_vF.pdf" target="_blank" rel="noopener noreferrer">notes on two very different papers studying grokking mechanism <br>
