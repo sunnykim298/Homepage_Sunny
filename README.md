@@ -1,11 +1,11 @@
 <!-- <img align="left" src="./homepage_photo.JPG" width="150" /> -->
 
-**Introduction** 
+**Introduction** <br>
 Hello, My name is Sunny (Sungyoung) Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
 Before joining graduate school, I studied B.A. Mathematics at the University of Cambridge and worked as a Data & Analytics Consultant at Ernst & Young. <br>
 <a href="./SunnyKim_CV_vF.pdf" target="_blank" rel="noopener noreferrer"> Curriculum Vitae </a>
 
-**Research** 
+**Research** <br>
 My research interests are Deep/Reinforcement learning and Dynamical Systems, with a focus on understanding artificial neural networks' learning in the control theoretic perspective.
 Specifically, it consists of 
 - suggesting the framework of viewing an optimization step as a linearized state-space system to deduce controllability (C) and observability (O) gramian-based metrics
@@ -16,9 +16,10 @@ Specifically, it consists of
   - distinct C, O dynamics across different tasks, suggestive of the task properties
   - regularizing C, O to control the learning curve
 - devising C, O based methods on identifying circuits in a neural network in the mechanistic interpretability sense
+
 Besides my main interests, I consistently liked learning about fluids, waves and airplanes too. <br>
 
-**Course projects and study notes**
+**Course projects and study notes** <br>
 <a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
 <a href="./memoryrl_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">attention-based recall in an egocentric navigation task</a><br>
 <a href="./grokking_vF.pdf" target="_blank" rel="noopener noreferrer">notes on two very different papers studying grokking mechanism <br>
