@@ -13,8 +13,8 @@ Specifically, it consists of
   - C, O metrics in relation to generalization accuracy across different hyperparameter settings within a task - architecture pair
   - distinct C, O dynamics across different tasks, suggestive of the task properties
   - regularizing C, O to control the learning curve
-- devising C, O based methods on identifying circuits in a neural network in the mechanistic interpretability sense
-Besides my main interests, I consistently liked learning about fluids, waves and airplanes too.  <br>
+- devising C, O based methods on identifying circuits in a neural network in the mechanistic interpretability sense <br>
+Besides my main interests, I consistently liked learning about fluids, waves and airplanes too. <br>
 
 Some course projects and study notes <br>
 <a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">spatial and temporal shapes in ADHD brains</a><br>
