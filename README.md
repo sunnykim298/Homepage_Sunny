@@ -7,12 +7,12 @@ Before joining graduate school, I studied B.A. Mathematics at the University of 
 My research interests are Deep/Reinforcement learning and Dynamical Systems, with a focus on understanding artificial neural networks' learning in the control theoretic perspective.
 Specifically, it consists of 
 - suggesting the framework of viewing an optimization step as a linearized state-space system to deduce controllability (C) and observability (O) gramian-based metrics
-  - existing literature
+  - existing literature often focuses on parameter-to-logit or input-to-output dynamics (e.g. NTK) but this framework  
   - <a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer"> C, O framework v0.1 (last updated Nov 2024) <br>
 - studying C, O matrices (e.g. trace, log-det, alignment, eigenspectrum) for various tasks (e.g. perceptual, relational, algebraic) and architectures (e.g. CNN, GNN, Deepsets, MLP)
   - C, O metrics predicted generalization accuracy across different hyperparameter settings within a task - architecture pair
   - distinct C, O dynamics observed across different tasks, in line with the task properties
-  - regularizing C, O changes 
+  - regularizing C, O changes the learning curve, inducing faster grokking in the case of an algebraic task
 - 
 
 Besides my main interests, I consistently liked learning about fluids, waves and airplanes.
