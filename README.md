@@ -6,16 +6,10 @@ Before joining graduate school, I studied B.A. Mathematics at the University of 
 <a href="./SunnyKim_CV_vF.pdf" target="_blank" rel="noopener noreferrer"> Curriculum Vitae </a>
 
 **Research** <br>
-My research interests are Deep/Reinforcement learning and Dynamical Systems, with a focus on understanding artificial neural networks' learning in the control theoretic perspective.
-Specifically, it consists of 
-- suggesting the framework of viewing an optimization step as a linearized state-space system to deduce controllability (C) and observability (O) gramian-based metrics
-  - existing literature often focuses on parameter-to-logit or input-to-output dynamics (e.g. NTK) and this framework extends them to include representation in the loop 
-  - <a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer"> C, O framework v0.1 (last updated Nov 2024) <br>
-- studying C, O matrices (e.g. trace, log-det, alignment, eigenspectrum) for various tasks (e.g. perceptual, relational, algebraic) and architectures (e.g. CNN, GNN, Deepsets, MLP)
-  - C, O metrics in relation to generalization accuracy across different hyperparameter settings within a task - architecture pair
-  - distinct C, O dynamics across different tasks, suggestive of the task properties
-  - regularizing C, O to control the learning curve
-- devising C, O based methods on identifying circuits in a neural network in the mechanistic interpretability sense
+My research interests are Deep/Reinforcement learning and Dynamical Systems, with a focus on understanding artificial neural networks' learning in the control theoretic perspective. Specifically, it consists of
+- proposing a framework that views a single optimization step as a linearized state-space system, enabling controllability (C) and observability (O) Gramian–based metrics (extending common parameter-to-logit / input-to-output analyses such as NTK to include representations in the loop); <a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">C, O framework v0.1 (last updated Nov 2024)</a>
+- analyzing C and O matrices (e.g., trace, log-det, alignment, eigenspectrum) across tasks (perceptual, relational, algebraic) and architectures (CNN, GNN, DeepSets, MLP), and relating these metrics to generalization across hyperparameter settings, task-dependent dynamics, and regularization strategies that control the learning curve
+- developing C/O-based methods to identify circuits in neural networks, in the mechanistic interpretability sense
 
 Besides my main interests, I consistently liked learning about fluids, waves and airplanes too. <br>
 
