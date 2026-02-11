@@ -6,11 +6,11 @@ Before joining graduate school, I studied B.A. Mathematics at the University of 
 (<a href="./SunnyKim_CV_vF.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>)
 
 **Research** <br>
-My research interests are deep/reinforcement learning and dynamical systems, with a focus on understanding how artificial neural networks learn from a control-theoretic perspective. Specifically, my work consists of:
+My research interests are deep/reinforcement learning and dynamical systems, with a focus on understanding controllability and observability dynamics in artificial neural networks. Specifically, my work consists of:
 
-- proposing a framework that views a single optimization step as a linearized state-space system, enabling controllability (C) and observability (O) gramian-based metrics (<a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">C, O framework v0.1, last updated Nov 2024</a>)<br>
-- analyzing C/O matrices (e.g., trace, log-det, alignment, eigenspectrum) across tasks and architectures in relation to generalization accuracy, task suggestive properties and regularization strategies <br>
-- developing novel C/O-based methods to identify circuits in neural networks, in the mechanistic interpretability sense <br>
+- formulating a control-theoretic perspective on learning dynamics by viewing a single optimization step as a locally linear state-space system, enabling Gramian-based controllability (C) and observability (O) analyses (<a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">C/O framework v0.1, last updated Nov 2024</a>)<br>
+- characterizing the C/O matrices and their spectral statistics across tasks and architectures, relating these quantities to generalization, regularization and task properties (e.g. perceptual vs relational) <br>
+- developing C/O-grounded circuit identification methods in neural networks, verifying mechanistically interpretable neurons as projected subspace of C/O modes (work in process) <br>
 
 Besides my main interests, I have also consistently enjoyed learning about fluids, waves, and airplanes.
 
