@@ -8,9 +8,9 @@ Before joining graduate school, I studied B.A. Mathematics at the University of 
 **Research** <br>
 My research interests are deep/reinforcement learning and dynamical systems, with a focus on understanding controllability and observability dynamics in artificial neural networks. Specifically, my work consists of:
 
-- formulating a control-theoretic perspective on learning dynamics by viewing a single optimization step as a locally linear state-space system, enabling Gramian-based controllability (C) and observability (O) analyses (<a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">C/O framework v0.1, last updated Nov 2024</a>)<br>
+- formulating a control-theoretic perspective on learning dynamics by viewing a single optimization step as a locally linear state-space system, inducing gramian-based controllability (C) and observability (O) matrices (<a href="./adhd_compneuro_vF.pdf" target="_blank" rel="noopener noreferrer">C/O framework v0.1, last updated Nov 2024</a>)<br>
 - characterizing the C/O matrices and their spectral statistics across tasks and architectures, relating these quantities to generalization, regularization and task properties (e.g. perceptual vs relational) <br>
-- developing C/O-grounded circuit identification methods in neural networks, verifying mechanistically interpretable neurons as projected subspace of C/O modes (work in process) <br>
+- developing C/O-grounded methods for circuit identification in neural networks, testing the hypothesis that mechanistically interpretable neurons concentrate in low-dimensional subspaces spanned by dominant balanced modes <br>
 
 Besides my main interests, I have also consistently enjoyed learning about fluids, waves, and airplanes.
 
