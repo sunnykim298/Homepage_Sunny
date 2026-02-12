@@ -2,15 +2,15 @@
 
 **Introduction** <br>
 Hello, My name is Sungyoung Kim, a second-year Master’s student in Data Science at the Korea Advanced Institute of Science and Technology (KAIST). 
-Before joining graduate school, I studied B.A. Mathematics at the University of Cambridge and worked as a Data & Analytics Consultant at Ernst & Young.
+Before joining graduate school, I worked as a Data & Analytics Consultant at Ernst & Young and studied B.A. Mathematics at the University of Cambridge. 
 (<a href="./SunnyKim_CV_vFF.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>)
 
 **Research** <br>
 My research interests are deep/reinforcement learning and dynamical systems, with a focus on understanding controllability and observability dynamics in artificial neural networks. Specifically, my work consists of:
 
-- formulating a control-theoretic perspective on learning dynamics by viewing a single optimization step as a locally linear state-space system, inducing gramian-based controllability (C) and observability (O) matrices (<a href="./research_idea_vFF.pdf" target="_blank" rel="noopener noreferrer">Initial Research Idea, Nov 2024</a>)<br>
-- characterizing C/O matrices and their spectral statistics across tasks and architectures, elucidating their relation with generalization, regularization, and task class (e.g. perceptual vs. relational) <br>
-- developing C/O-grounded methods for circuit identification in neural networks, testing the hypothesis that mechanistically interpretable neurons concentrate in low-dimensional subspaces spanned by dominant balanced modes <br>
+- formulating a control-theoretic perspective on learning dynamics by viewing a single optimization step as a locally linearized system, inducing gramian-based controllability (C) and observability (O) matrices (<a href="./research_idea_vFF.pdf" target="_blank" rel="noopener noreferrer">Initial Research Idea, Nov 2024</a>)<br>
+- analyzing C/O matrices and their spectral statistics across tasks and architectures, in relation to generalization, regularization, and task class (e.g. perceptual vs. relational) <br>
+- developing C/O-grounded methods for circuit finding in neural networks, testing the hypothesis that mechanistically interpretable neurons concentrate in low-dimensional subspaces spanned by dominant balanced modes <br>
 
 Besides my main interests, I have also consistently enjoyed learning about fluids, waves, and airplanes.
 
